@@ -1,0 +1,10 @@
+/* Estilos para Smartphone */
+
+@media screen and (max-width:831px) {
+
+    .contenedor{
+        width: 100%;
+    }
+
+    
+}
